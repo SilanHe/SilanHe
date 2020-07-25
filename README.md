@@ -1,5 +1,5 @@
 
-![a headshot](https://github.com/silanhe/silanhe/raw/master/headshot.png)
+![a headshot](https://github.com/silanhe/silanhe/raw/master/headshot.png | width=200)
 
 ### Hey 👋
 
