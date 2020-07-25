@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![a headshot](https://github.com/silanhe/silanhe/raw/master/headshot.png)
+
+### Hey 👋
 
 <!--
 **SilanHe/SilanHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
