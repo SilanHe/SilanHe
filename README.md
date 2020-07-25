@@ -1,6 +1,4 @@
 
-![a headshot](https://github.com/silanhe/silanhe/raw/master/headshot.png)
-
 ### Hey 👋
 
 <!--
