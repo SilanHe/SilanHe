@@ -1,5 +1,5 @@
 
-![a headshot](https://github.com/silanhe/silanhe/raw/master/headshot.png) <!-- .element height="100" -->
+![a headshot](https://github.com/silanhe/silanhe/raw/master/headshot.png) <!-- .element height="20%" -->
 
 ### Hey 👋
 
