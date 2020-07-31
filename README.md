@@ -1,6 +1,3 @@
-
-<img align="left" src="https://github.com/silanhe/silanhe/raw/master/headshot.png" width="250" height="250">
-
 ### Hey 👋
 
 <!--
